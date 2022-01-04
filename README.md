@@ -1,2 +1,2 @@
 # SPOJ-250-Challenge
-This is a challenge to solve the 250 most solved algorithmic problems on [spoj.com](www.spoj.com)
+This is a challenge to solve the 250 most solved algorithmic problems on [spoj.com](http://www.spoj.com)
